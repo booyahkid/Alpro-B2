@@ -1,5 +1,5 @@
-// Nama         : Christian Joshua Nathanael Nadeak
-// NIM          : 24060121140120
+// Nama         : Fikri Baswara Andanawarih
+// NIM          : 24060121140122
 // Tanggal      : 13 Maret 2022
 // Nama Program : CekHari.c
 /* Deskripsi    : menampilkan nama hari untuk inputan nomor 1 - 7*/
