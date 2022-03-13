@@ -1,8 +1,8 @@
-// Nama         : Fikri Baswara Andanawarih
-// NIM          : 24060121140122
+// Nama         : Christian Joshua Nathanael Nadeak
+// NIM          : 24060121140120
 // Tanggal      : 13 Maret 2022
 // Nama Program : CekHari.c
-/* Deskripsi    : Menampilkan nama bulan untuk inputan nomor 1 - 12 dan menampilkan inputan salah jika selain rentang 1 -12*/
+/* Deskripsi    : menampilkan nama hari untuk inputan nomor 1 - 7*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -16,43 +16,28 @@ int main(){
     scanf("%d",&i);
     switch (i){
         case 1 :
-            printf("Januari");
+            printf("Minggu");
             break;
         case 2 :
-            printf("Februari");
+            printf("Senin");
             break;
         case 3:
-            printf("Maret");
+            printf("Selasa");
             break;
         case 4:
-            printf("April");
+            printf("Rabu");
             break;
         case 5:
-            printf("Mei");
+            printf("Kamis");
             break;
         case 6:
-            printf("Juni");
+            printf("Jumat");
             break;
         case 7:
-            printf("Juli");
-            break;
-        case 8:
-            printf("Agustus");
-            break;
-        case 9:
-            printf("September");
-            break;
-        case 10:
-            printf("Oktober");
-            break;
-        case 11:
-            printf("November");
-            break;
-        case 12:
-            printf("Desember");
+            printf("Sabtu");
             break;
         default:
-            printf("Masukan nomor bulan tidak tepat");
+            printf("Masukan nomor hari tidak tepat");
             break;
             }
     return 0;
