@@ -2,7 +2,6 @@
 // NIM              : 24060121140122
 // Tgl Pembuatan    : Kamis. 23 Maret 2022
 // Nama Program     : SiputNaik.c
-// Deskripsi        : menampilkan faktor dari angka inputan N
 
 #include <stdio.h>
 #include <stdlib.h>
