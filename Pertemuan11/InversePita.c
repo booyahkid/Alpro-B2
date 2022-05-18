@@ -1,4 +1,4 @@
-// Nama           : Fikri Baswara Andanawarih
+// Nama             : Fikri Baswara Andanawarih
 // NIM              : 24060121140122
 // Tgl Pembuatan    : 15-05-2020
 // Nama Program     : InversPita.c
